@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "drink-water",
+      "done": false
+    },
+    {
+      "id": 2,
+      "task": "water-plants",
+      "done": false
+    },
+    {
+      "id": 3,
+      "task": "eat-food",
+      "done": false
+    },
+    {
+      "id": 4,
+      "task": "study",
+      "done": false
+    },
+    {
+      "id": 5,
+      "task": "finish-assignment",
+      "done": false
+    }
+  ]
+}
